@@ -16,6 +16,8 @@ A simple command-line key-value store with append-only disk storage. The store p
 - `main.py` - Interactive command-line interface
 - `test_kvstore.py` - Automated test suite using pytest
 - `kvstore.log` - Default storage file (created on first use)
+- `attached_assets/` - Documentation and demo assets
+  - `cli_demo.png` - Screenshot showing the CLI in action
 
 ## Usage
 
