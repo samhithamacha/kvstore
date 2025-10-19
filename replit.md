@@ -52,8 +52,8 @@ pytest test_kvstore.py -v
 ### Append-Only Storage
 All SET and DELETE operations are appended to a log file as JSON entries:
 ```json
-{"key": "name", "value": "Alice"}
-{"key": "age", "value": "30"}
+{"key": "name", "value": "Samhitha"}
+{"key": "age", "value": "22"}
 {"key": "name", "value": null}  // tombstone for deletion
 ```
 
