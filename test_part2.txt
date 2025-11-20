@@ -1,0 +1,13 @@
+SET a 10
+GET a
+EXPIRE a 100
+TTL a
+MSET b 20 c 30
+MGET a b c
+BEGIN
+SET x 100
+GET x
+ABORT
+GET x
+RANGE a z
+EXIT

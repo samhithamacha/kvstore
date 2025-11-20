@@ -1,0 +1,12 @@
+SET a 10
+DEL a
+SET b 20
+SET a 10
+SET b 20
+SET c 30
+SET a 10
+SET b 20
+SET c 30
+SET a 10
+SET b 20
+SET c 30
