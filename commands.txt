@@ -1,0 +1,6 @@
+SET name "Phani Samhitha Macha, UNT id - 11813773"
+GET name
+SET age 22
+GET age
+EXIT
+
